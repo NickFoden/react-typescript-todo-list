@@ -1,6 +1,6 @@
 # React + Typescript + Sass = Todo App
 
-Ran through the videos that Richard Oliver Bray put together and set up webpack from scratch and used typescript with react and sass for a to do app.
+Ran through the videos that Richard Oliver Bray put together and set up webpack from scratch and used typescript with react and sass for a todo app.
 
 [Youtube Playlist](https://www.youtube.com/watch?v=1ZJrd1nHbWc&list=PLiKs97d-BatHEeclprFtCaw8RcNOYXUqN)
 
