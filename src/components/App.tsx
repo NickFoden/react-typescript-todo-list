@@ -10,6 +10,9 @@ export class App extends React.Component<{}, IState> {
   }
   public handleSubmit(e: React.FormEvent<HTMLFormElement>): void {
     e.preventDefault();
+    if (this.state.currentTask === "") {
+      return;
+    }
     this.setState({
       currentTask: "",
       tasks: [
